@@ -14,5 +14,8 @@
 3. 修改 恶魔手契 小游戏内的数值
    - 调用 **LCU API** 修改游戏存档内容 
 
+## 封号问题
+- **根据本工具的实现原理，没有任何的封号可能性**。
+
 ## 协议
 本项目遵循 [MIT](https://github.com/chuxiaaaa/DemonsHand/blob/master/LICENSE.md) 协议
